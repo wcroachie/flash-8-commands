@@ -11,7 +11,7 @@ INSTALLATION INSTRUCTIONS
     
 2) open flash
 3) create a new file
-4) create 1 symbol. put the 1 symbol on the timeline in 1 layer. everything you make will need to be nested within this symbol.
+4) create 1 symbol. put the 1 symbol on the timeline in 1 layer in 1 frame .use f5 to extend this single keyframe to the duration of your project. everything you make will need to be nested within this symbol for this to work.
 5) double click the symbol or click open in place
 6) start drawing or paste your frames or whatever
 7) to flip the stage, go to the Commands dropdown (on the top bar) and select the desired command to run it. You can bind keyboard shortcuts to these.
