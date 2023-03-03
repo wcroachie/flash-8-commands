@@ -3,7 +3,7 @@
 </div>
 
 
-flash 8 commands for rotating and flipping the stage. I wrote these in 2023. should make the drawing experience a hell of a lot easier for people like me who like to rotate and flip their art as they work :)
+flash 8 commands for rotating and flipping the stage. I wrote these in 2023. should make the drawing experience a little easier for people like me who like to rotate and flip their art as they work :)
 
 what this does: rotates and flips entire drawing surface without transforming or altering anything, similar behavior to in art programs like photoshop and krita when flipping/rotating the canvas.
 
