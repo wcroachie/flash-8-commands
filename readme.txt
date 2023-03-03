@@ -1,4 +1,4 @@
-flash 8 commands for rotating and flipping the stage. I wrote these in 2023.
+flash 8 commands for rotating and flipping the stage. I wrote these in 2023. should make the drawing experience a hell of a lot easier for people like me who like to rotate and flip their art as they work :)
 
 INSTALLATION INSTRUCTIONS
   - this works in flash 8. untested on anything newer.
