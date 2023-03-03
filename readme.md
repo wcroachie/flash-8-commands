@@ -20,3 +20,6 @@ INSTALLATION INSTRUCTIONS
 8) if you want to use the rotate tool with the mouse, go to edit > customize tools panel > and then click the square on the left where you wanna place the tool. find the smiley face that says RotateStage tool and add that to the tool slot. you can then use the tool with the mouse*
 
 * caveat - it seems like it's impossible to set a keyboard shortcut to summon a custom tool, flash only allows keys to be bound to built-in tools. sorry
+<div align="center">
+  <img alt="structure" src="https://github.com/wcroachie/flash-8-commands/blob/main/DEMO.gif?raw=true" width="88%">
+</div>
