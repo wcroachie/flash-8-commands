@@ -1,7 +1,3 @@
-<div align="center">
-  <img alt="structure" src="https://github.com/wcroachie/flash-8-commands/blob/main/DEMO.gif?raw=true" width="88%">
-</div>
-
 
 flash 8 commands for rotating and flipping the stage. I wrote these in 2023. should make the drawing experience a little easier for people like me who like to rotate and flip their art as they work :)
 
